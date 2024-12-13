@@ -1,10 +1,10 @@
 ### 1. Sensor Configuration
-<img src="assets/sensor_hardware.png" width="500"/>
+<img src="assets/sensor_hardware.png" width="300"/>
 
 ### 2. Sensor Calibration
 #### (1) Virtual camera
 
-<img src="assets/virtual_cameras.png" width="500"/>
+<img src="assets/virtual_cameras.png" width="600"/>
 To mitigate the inherent distortion of 360-degree images, we split the 360-degree image into six regions using perspective projection, treating each as a separate virtual camera.
 
 #### (2) Intrinsic/Extrinsic calibration
