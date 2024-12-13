@@ -16,8 +16,8 @@ We first calibrated the sensor extrinsincs (sensor coordinate transformation mat
 <div style="text-align: center;">
     <!-- <img src="assets/coordinate_system_transformation.png" width="450"/>
     <img src="assets/coordinate_system.png" width="450"/> -->
-    <img src="assets/coordinate_system_transformation.png"/>
-    <img src="assets/coordinate_system.png"/>
+    <img src="assets/coordinate_system_transformation.png" width="450"/>
+    <img src="assets/coordinate_system.png" width="450"/>
 </div>
 
 #### (3) LiDAR-IMU Odometry
