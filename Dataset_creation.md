@@ -14,8 +14,10 @@ To mitigate the inherent distortion of 360-degree images, we split the 360-degre
 We first calibrated the sensor extrinsincs (sensor coordinate transformation matrices). Then, we calibrated each projected camera image’s intrinsics with the checkerboard method. An overview of the sensor coordinate systems is shown below: 
 
 <div style="text-align: center;">
-    <img src="assets/coordinate_system_transformation.png" width="400"/>
-    <img src="assets/coordinate_system.png" width="400"/>
+    <!-- <img src="assets/coordinate_system_transformation.png" width="450"/>
+    <img src="assets/coordinate_system.png" width="450"/> -->
+    <img src="assets/coordinate_system_transformation.png"/>
+    <img src="assets/coordinate_system.png"/>
 </div>
 
 #### (3) LiDAR-IMU Odometry
