@@ -1,16 +1,19 @@
 # Panoptic3D Dataset
 
+<img src="assets/example_3d_detection_bevdet.gif" alt="3D_det"/>
+
 ### A multi-view, multi-modal dataset for mobile 3D perception compatible with nuScenes
 
 Multi-view 3D perception is a fundamental task for autonomous systems. However, existing datasets like nuScenes are limited to driving scenes. Its a personal research project to create a multi-view, multi-modal dataset for mobile 3D perception, which includes various urban environments in Seoul, Korea and LA, USA, where humans or robots can move around, such as campuses, city steets, crosswalks, etc. 
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img src="assets/Sensor_configuration.svg" alt="dataset_creation_process" width="400"/>
-</div>
+</div> -->
+<img src="assets/Sensor_configuration.svg" alt="dataset_creation_process" width="500"/>
 
 ### Panoptic3D features:
 - Data types
-  - Multi-view images, 360-degree images, LiDAR point clouds, IMU data, camera parameters
+  - Multi-view perspective images, 360-degree images, LiDAR point clouds, IMU data, camera parameters
 - Annotation types
   - Camera poses, 3D bounding boxes (work in progress)
 - nuScenes compatibility
