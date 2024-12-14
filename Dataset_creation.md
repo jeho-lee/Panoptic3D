@@ -28,7 +28,7 @@ We first calibrated the sensor extrinsincs (sensor coordinate transformation mat
 
 <img src="assets/LiDAR-IMU odometry.gif" width="500"/>
 
-We created accurate sensor movement trajectories (ego pose data) using LiDAR-IMU odometry using [Point-LIO]([https://github.com/hku-mars/Point-LIO]). 
+We created accurate sensor movement trajectories (ego pose data) using LiDAR-IMU odometry using [Point-LIO](https://github.com/hku-mars/Point-LIO). 
 
 ### 5. 3D Bounding Box Annotation (in progress)
 
