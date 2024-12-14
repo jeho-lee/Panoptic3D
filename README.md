@@ -21,8 +21,8 @@ Multi-view 3D perception is a fundamental task for autonomous systems. However, 
   - Compatible with nuScenes devkit APIs
 
 ### Scenes:
-| Trajectory | Sample 360-degree image |
-| --- | --- |
-| <img src="assets/trajectory1.png" width="150"/> | <img src="assets/scene1.png" width="250"/> |
-| <img src="assets/trajectory2.png" width="150"/> | <img src="assets/scene2.png" width="250"/> |
-| <img src="assets/trajectory3.png" width="150"/> | <img src="assets/scene3.png" width="250"/> <img src="assets/scene5.png" width="250"/> |
+| Location | Trajectory | Sample 360-degree image |
+| --- | --- | --- |
+| LA (1) | <img src="assets/trajectory1.png" width="150"/> | <img src="assets/scene1.png" width="250"/> |
+| LA (2) | <img src="assets/trajectory2.png" width="150"/> | <img src="assets/scene2.png" width="250"/> |
+| Seoul (1) | <img src="assets/trajectory3.png" width="150"/> | <img src="assets/scene3.png" width="250"/> <img src="assets/scene5.png" width="250"/> |
