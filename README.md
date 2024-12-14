@@ -23,6 +23,8 @@ Multi-view 3D perception is a fundamental task for autonomous systems. However, 
 ### Scenes:
 | Location | Trajectory | Sample 360-degree image |
 | --- | --- | --- |
-| LA (1) | <img src="assets/trajectory1.png" width="150"/> | <img src="assets/scene1.png" width="250"/> |
-| LA (2) | <img src="assets/trajectory2.png" width="150"/> | <img src="assets/scene2.png" width="250"/> |
-| Seoul (1) | <img src="assets/trajectory3.png" width="150"/> | <img src="assets/scene3.png" width="250"/> <img src="assets/scene5.png" width="250"/> |
+| USC Campus, LA | <img src="assets/trajectory_la_campus.png" width="150"/> | <img src="assets/vis_la_campus_sample1.png" width="250"/> |
+| USC Campus town, LA | <img src="assets/trajectory_la_campus_town.png" width="150"/> | <img src="assets/vis_la_campus_town_sample1.png" width="250"/> |
+| Changcheon-dong, Seoul | <img src="assets/trajectory_changchundong.png" width="150"/> | <img src="assets/vis_changchundong_sample1.png" width="250"/> |
+| Sinchon-dong (daytime), Seoul | <img src="assets/trajectory_sinchon_daytime.png" width="150"/> | <img src="assets/vis_sinchon_daytime_seq1.png" width="250"/> |
+| Sinchon-dong (night), Seoul | <img src="assets/trajectory_sinchon_night.png" width="150"/> | <img src="assets/vis_sinchon_night_sample1.png" width="250"/> |
