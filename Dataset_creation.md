@@ -20,16 +20,20 @@ We first calibrated the sensor extrinsincs (sensor coordinate transformation mat
     <img src="assets/coordinate_system.png" width="450"/>
 </div>
 
-#### (3) LiDAR-Camera Time Synchronization
+### 3. LiDAR-Camera Time Synchronization
 
 <img src="assets/lidar_cam_sync.jpg" width="600"/>
 
-#### (4) LiDAR-IMU Odometry
+### 4. LiDAR-IMU Odometry
 
 <img src="assets/LiDAR-IMU odometry.gif" width="500"/>
 
 We created accurate sensor movement trajectories (ego pose data) using LiDAR-IMU odometry using [Point-LIO]([https://github.com/hku-mars/Point-LIO]). 
 
-#### (5) 3D Bounding Box Annotation (in progress)
+### 5. 3D Bounding Box Annotation (in progress)
 
 We've generated 3D bounding box annotations for objects in the scene using the [xtreme1](https://github.com/xtreme1-io/xtreme1). Since manual annotation is time-consuming, we are working on a automatic annotation to speed up the process.
+
+### 6. Dataset Structuring (nuScenes format)
+
+The dataset is structured in the same way as the nuScenes dataset using [this script](./nusc_dataset_gen.ipynb), allowing for easy implementation and evaluation with well-established open-source frameworks for 3D perception like nuScenes devkit APIs and MMDetection3D.
